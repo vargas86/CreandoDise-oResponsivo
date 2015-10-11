@@ -5,3 +5,16 @@
 > PROXIMAMENTE IRE SUBIENDO EL CONTENIDO DEL INDICE
 
 ## ÍNDICE
+
+> A. Introducción 
+
+> B. Aprende a colocar un FAVICON
+
+> C. Usar fuentes de GOOGLE FONTS
+
+> D. Hoja de estilos 
+
+> E. Maquetar Responsive Design
+
+> F. Recursos (Media Query, CSS, etc)
+
